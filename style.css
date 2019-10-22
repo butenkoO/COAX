@@ -1,0 +1,10 @@
+input{
+    width: 30px;
+}
+#go{
+    margin: 5px;
+    width: 100px;
+    padding: 10px;
+    left: 130px;
+    top: 40px
+}
